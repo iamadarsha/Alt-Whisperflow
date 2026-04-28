@@ -1,3 +1,16 @@
+> Fork note: this is a forked/reference repository used to study open-source macOS dictation patterns. The original FreeFlow project credit remains with its upstream maintainers. My active India-focused dictation work lives in [FlowKeys](https://github.com/iamadarsha/FlowKeys).
+
+## Recruiter Quick Scan
+
+| Signal | Details |
+|---|---|
+| Why it is here | Reference implementation for native macOS dictation UX and BYO-key AI transcription |
+| What it demonstrates | Research process behind FlowKeys, including hotkeys, context-aware cleanup, and privacy-first local app structure |
+| Stack | Swift, SwiftUI/AppKit, Groq, macOS permissions |
+| Status | Fork/reference repo, not presented as original product work |
+
+---
+
 <p align="center">
   <img src="Resources/AppIcon-Source.png" width="128" height="128" alt="FreeFlow icon">
 </p>
